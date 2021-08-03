@@ -5093,6 +5093,11 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-jw-media-player@^0.1.57:
+  version "0.1.57"
+  resolved "https://registry.yarnpkg.com/react-native-jw-media-player/-/react-native-jw-media-player-0.1.57.tgz#972bfa1add2688a8f3520bfbc87324e4c3f15ec3"
+  integrity sha512-LOkd+DnxXA1MorLlzL6tIGx3aldXp7JTavr106fqAHCUiyF5w/OdWs4wU1O2M7YJ3Kn8JtmvH3tV/+Sh0i6wWA==
+
 react-native@0.64.2:
   version "0.64.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.64.2.tgz#233b6ed84ac4749c8bc2a2d6cf63577a1c437d18"
